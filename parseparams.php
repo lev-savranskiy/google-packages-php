@@ -1,4 +1,10 @@
 <?php
+/***
+ * google play fetch parser
+ * @author Lev Savranskiy <lev.savranskiy@gmail.com>
+ */
+
+
 set_time_limit(0);
 define('PREFIX', 'https://play.google.com/store/apps/details?id=');
 

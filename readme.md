@@ -2,9 +2,13 @@
 
 ## db table
 
-Parses app category and download counts based on input List of google play id.
-Stores data in small CSV files (16k rows each)
-Once done, you can concat all files in single CSV.
+* Parses app category and download counts based on input List of google play id.
+
+* Stores data in small CSV files (16k rows each)
+
+* Once done, you can concat all files in single CSV.
+
+* each stream does about 700 apps in hour
 
 
 ## db table
